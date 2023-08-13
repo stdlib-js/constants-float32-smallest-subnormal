@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../tmp/index.js"],
-  "sourcesContent": ["/** @license Apache-2.0 */\n'use strict';\nvar FLOAT32_SMALLEST_SUBNORMAL = 1.401298464324817e-45;\nmodule.exports = FLOAT32_SMALLEST_SUBNORMAL;\n"],
-  "mappings": "aAEA,IAAIA,EAA6B,qBACjC,OAAO,QAAUA",
-  "names": ["FLOAT32_SMALLEST_SUBNORMAL"]
-}
